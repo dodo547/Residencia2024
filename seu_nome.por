@@ -42,8 +42,7 @@ programa
 		leia(idade)
 		limpa()
 		
-		escreva("Seu nome completo é:"+nome+" "+sobrenome+"\n")
-		escreva("Você tem: "+idade+" anos de idade")
+		escreva("Olá "+nome+" "+sobrenome+", você tem "+idade+" anos de idade.")
 		
 	}
 }
@@ -53,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1220; 
+ * @POSICAO-CURSOR = 1190; 
  * @DOBRAMENTO-CODIGO = [1];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
